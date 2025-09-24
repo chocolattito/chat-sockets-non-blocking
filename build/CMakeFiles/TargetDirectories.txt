@@ -1,0 +1,4 @@
+/Users/sebastianmarcos/Documents/GitHub/chat-sockets-non-blocking/build/CMakeFiles/client.dir
+/Users/sebastianmarcos/Documents/GitHub/chat-sockets-non-blocking/build/CMakeFiles/server.dir
+/Users/sebastianmarcos/Documents/GitHub/chat-sockets-non-blocking/build/CMakeFiles/edit_cache.dir
+/Users/sebastianmarcos/Documents/GitHub/chat-sockets-non-blocking/build/CMakeFiles/rebuild_cache.dir

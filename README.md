@@ -1,2 +1,18 @@
-# chat-sockets-non-blocking
-Implementación de chat con sockets no bloqueantes
+# Chat Sockets Non-blocking
+Implementación de chat con sockets no bloqueantes.
+## Compilar
+```
+mkdir -p build
+cd build
+cmake ..
+make
+```
+## Correr
+En una terminal, correr el servidor:
+```
+./build/server
+```
+En otras terminales, correr tantos clientes como desee:
+```
+./build/client
+```
