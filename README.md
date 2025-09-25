@@ -1,5 +1,5 @@
 # Chat Sockets Non-blocking
-Implementación de chat con sockets no bloqueantes.
+Implementación de chat con sockets no bloqueantes y busy waiting.
 ## Compilar
 ```
 mkdir -p build
